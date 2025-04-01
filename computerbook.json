@@ -3,85 +3,75 @@
     "publisher": "Tech Publications",
     "yearPublished": 2023,
     "books": [
-      {
-        "title": "Clean Code: A Handbook of Agile Software Craftsmanship",
-        "author": "Robert C. Martin",
-        "description": "This book provides comprehensive insights into writing clean and efficient code. It covers best practices and principles that help developers produce high-quality software.",
-        "price": "$29.99",
-        "publisher": "Prentice Hall",
-        "topics": ["Software Development", "Code Quality", "Best Practices"]
-      },
-      {
-        "title": "The Pragmatic Programmer",
-        "author": "Andrew Hunt, David Thomas",
-        "description": "This book is a guide to becoming a more effective programmer. It offers advice on writing software that is easy to maintain and evolve, with a focus on practical solutions to common programming problems.",
-        "price": "$39.99",
-        "publisher": "Addison-Wesley",
-        "topics": ["Programming Techniques", "Career Growth", "Software Engineering"]
-      },
-      {
-        "title": "Designing Data-Intensive Applications",
-        "author": "Martin Kleppmann",
-        "description": "This book provides a deep dive into the challenges and solutions for designing data-intensive applications. It covers distributed systems, database design, and scalability, making it a valuable resource for developers.",
-        "price": "$49.99",
-        "publisher": "O'Reilly",
-        "topics": ["Distributed Systems", "Database Design", "Scalability"]
-      },
-      {
-        "title": "You Don't Know JS",
-        "author": "Kyle Simpson",
-        "description": "This book series demystifies the complex parts of JavaScript, offering a thorough understanding of the language's core mechanisms. It's perfect for developers looking to deepen their knowledge.",
-        "price": "$34.99",
-        "publisher": "O'Reilly",
-        "topics": ["JavaScript Core", "Asynchronous Programming", "Prototypes"]
-      },
-      {
-        "title": "Eloquent JavaScript",
-        "author": "Marijn Haverbeke",
-        "description": "This book is a modern introduction to JavaScript, covering both basic and advanced topics. It's a great resource for beginners and experienced programmers alike, with practical examples and exercises.",
-        "price": "$29.99",
-        "publisher": "No Starch Press",
-        "topics": ["JavaScript Basics", "Data Structures", "Algorithms"]
-      },
-      {
-        "title": "JavaScript: The Good Parts",
-        "author": "Douglas Crockford",
-        "description": "This book focuses on the essential parts of JavaScript, helping developers write better code. It's a concise guide that highlights the language's best features and how to use them effectively.",
-        "price": "$24.99",
-        "publisher": "O'Reilly",
-        "topics": ["Language Features", "Best Practices", "Code Quality"]
-      },
-      {
-        "title": "High Performance MySQL",
-        "author": "Baron Schwartz, Peter Zaitsev, Vadim Tkachenko",
-        "description": "This book is a comprehensive guide to MySQL performance, covering everything from hardware optimization to query tuning. It's a must-read for anyone responsible for managing MySQL databases.",
-        "price": "$49.99",
-        "publisher": "O'Reilly",
-        "topics": ["Database Performance", "Query Optimization", "Hardware Tuning"]
-      },
-      {
-        "title": "The Art of Computer Programming",
-        "author": "Donald E. Knuth",
-        "description": "This multi-volume work is a comprehensive guide to the art of computer programming. It's considered a classic in the field, with detailed explanations and algorithms that are essential for any serious programmer.",
-        "price": "$199.99",
-        "publisher": "Addison-Wesley",
-        "topics": ["Algorithms", "Data Structures", "Programming Techniques"]
-      },
-      {
-        "title": "Introduction to Algorithms",
-        "author": "Cormen, Leiserson, Rivest, and Stein",
-        "description": "This book provides a comprehensive introduction to the design and analysis of algorithms. It's widely used in academic and professional settings, offering a solid foundation in computer science.",
-        "price": "$109.99",
-        "publisher": "MIT Press",
-        "topics": ["Algorithm Design", "Analysis", "Data Structures"]
-      },
-      {
-        "title": "Cracking the Coding Interview",
-        "author": "Gayle Laakmann McDowell",
-        "description": "This book is a comprehensive guide to preparing for technical interviews. It covers a wide range of topics, including data structures, algorithms, and system design, making it a valuable resource for job seekers.",
-        "price": "$44.99",
-        "publisher": "CareerCup",
-        "topics": ["Interview Preparation", "Data Structures", "Algorithms"]
-      }
+        {
+            "title": "Deep Learning for Computer Vision",
+            "author": "Nigel Paige",
+            "description": "This book offers a comprehensive guide to using deep learning techniques for computer vision tasks. It covers convolutional neural networks, object detection, and image segmentation, providing both theoretical foundations and practical examples.",
+            "price": "$54.99",
+            "publisher": "TechVision Press"
+          },
+          {
+            "title": "Advanced Algorithms and Data Structures",
+            "author": "John Doe",
+            "description": "Dive deep into the world of advanced algorithms and data structures. This book is perfect for those looking to enhance their understanding of complex data manipulation techniques and algorithmic problem-solving strategies.",
+            "price": "$42.99",
+            "publisher": "Algorithmic Press"
+          },
+          {
+            "title": "Cybersecurity Fundamentals",
+            "author": "Jane Smith",
+            "description": "This book provides a solid foundation in cybersecurity, covering essential topics such as network security, cryptography, and risk management. It's an ideal resource for beginners and professionals alike who want to safeguard digital information.",
+            "price": "$39.99",
+            "publisher": "Secure Publishing"
+          },
+          {
+            "title": "Machine Learning: A Practical Approach",
+            "author": "Emily Johnson",
+            "description": "This practical guide to machine learning covers a wide range of algorithms and techniques. It includes hands-on examples and case studies that demonstrate how to apply machine learning to real-world problems, making it suitable for both beginners and experienced practitioners.",
+            "price": "$49.99",
+            "publisher": "AI Press"
+          },
+          {
+            "title": "Web Development with Node.js",
+            "author": "Michael Brown",
+            "description": "Discover how to build scalable web applications using Node.js. This book covers everything from setting up your development environment to deploying your applications, with a focus on performance optimization and best practices.",
+            "price": "$35.99",
+            "publisher": "NodePress"
+          },
+          {
+            "title": "The Art of Database Design",
+            "author": "Sarah Davis",
+            "description": "This book explores the art and science of database design, providing insights into creating efficient, scalable, and maintainable databases. It covers both relational and NoSQL databases, making it a valuable resource for database administrators and developers.",
+            "price": "$46.99",
+            "publisher": "Database Design Press"
+          },
+          {
+            "title": "Practical Cryptography",
+            "author": "David Wilson",
+            "description": "This book offers a practical guide to cryptography, covering both the theoretical foundations and real-world applications. It's perfect for developers looking to implement secure communication protocols and protect sensitive data.",
+            "price": "$52.99",
+            "publisher": "Crypto Press"
+          },
+          {
+            "title": "Mobile App Development with Swift",
+            "author": "Laura Lee",
+            "description": "Learn how to develop mobile applications using Swift, Apple's powerful programming language. This book covers iOS app development from start to finish, including user interface design, data management, and app deployment.",
+            "price": "$41.99",
+            "publisher": "SwiftPress"
+          },
+          {
+            "title": "Cloud Computing Essentials",
+            "author": "Kevin Zhang",
+            "description": "This book provides an introduction to cloud computing, covering the basics of cloud services, infrastructure, and architecture. It's ideal for those looking to understand how to leverage cloud technologies for their business or personal projects.",
+            "price": "$38.99",
+            "publisher": "CloudTech Press"
+          },
+          {
+            "title": "Data Science for Beginners",
+            "author": "Olivia Thompson",
+            "description": "This book is a gentle introduction to data science, covering topics such as data analysis, visualization, and machine learning. It's designed for beginners with no prior experience in the field, making it accessible and engaging.",
+            "price": "$29.99",
+            "publisher": "DataScience Press"
+          }
     ]
 }
