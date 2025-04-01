@@ -1,0 +1,77 @@
+{
+    "collectionName": "Must-Read Computer Books",
+    "publisher": "Tech Publications",
+    "yearPublished": 2023,
+    "books": [
+      {
+        "title": "Clean Code: A Handbook of Agile Software Craftsmanship",
+        "author": "Robert C. Martin",
+        "description": "This book provides comprehensive insights into writing clean and efficient code. It covers best practices and principles that help developers produce high-quality software.",
+        "price": "$29.99",
+        "publisher": "Prentice Hall"
+      },
+      {
+        "title": "The Pragmatic Programmer",
+        "author": "Andrew Hunt, David Thomas",
+        "description": "This book is a guide to becoming a more effective programmer. It offers advice on writing software that is easy to maintain and evolve, with a focus on practical solutions to common programming problems.",
+        "price": "$39.99",
+        "publisher": "Addison-Wesley"
+      },
+      {
+        "title": "Designing Data-Intensive Applications",
+        "author": "Martin Kleppmann",
+        "description": "This book provides a deep dive into the challenges and solutions for designing data-intensive applications. It covers distributed systems, database design, and scalability, making it a valuable resource for developers.",
+        "price": "$49.99",
+        "publisher": "O'Reilly"
+      },
+      {
+        "title": "You Don't Know JS",
+        "author": "Kyle Simpson",
+        "description": "This book series demystifies the complex parts of JavaScript, offering a thorough understanding of the language's core mechanisms. It's perfect for developers looking to deepen their knowledge.",
+        "price": "$34.99",
+        "publisher": "O'Reilly"
+      },
+      {
+        "title": "Eloquent JavaScript",
+        "author": "Marijn Haverbeke",
+        "description": "This book is a modern introduction to JavaScript, covering both basic and advanced topics. It's a great resource for beginners and experienced programmers alike, with practical examples and exercises.",
+        "price": "$29.99",
+        "publisher": "No Starch Press"
+      },
+      {
+        "title": "JavaScript: The Good Parts",
+        "author": "Douglas Crockford",
+        "description": "This book focuses on the essential parts of JavaScript, helping developers write better code. It's a concise guide that highlights the language's best features and how to use them effectively.",
+        "price": "$24.99",
+        "publisher": "O'Reilly"
+      },
+      {
+        "title": "High Performance MySQL",
+        "author": "Baron Schwartz, Peter Zaitsev, Vadim Tkachenko",
+        "description": "This book is a comprehensive guide to MySQL performance, covering everything from hardware optimization to query tuning. It's a must-read for anyone responsible for managing MySQL databases.",
+        "price": "$49.99",
+        "publisher": "O'Reilly"
+      },
+      {
+        "title": "The Art of Computer Programming",
+        "author": "Donald E. Knuth",
+        "description": "This multi-volume work is a comprehensive guide to the art of computer programming. It's considered a classic in the field, with detailed explanations and algorithms that are essential for any serious programmer.",
+        "price": "$199.99",
+        "publisher": "Addison-Wesley"
+      },
+      {
+        "title": "Introduction to Algorithms",
+        "author": "Cormen, Leiserson, Rivest, and Stein",
+        "description": "This book provides a comprehensive introduction to the design and analysis of algorithms. It's widely used in academic and professional settings, offering a solid foundation in computer science.",
+        "price": "$109.99",
+        "publisher": "MIT Press"
+      },
+      {
+        "title": "Cracking the Coding Interview",
+        "author": "Gayle Laakmann McDowell",
+        "description": "This book is a comprehensive guide to preparing for technical interviews. It covers a wide range of topics, including data structures, algorithms, and system design, making it a valuable resource for job seekers.",
+        "price": "$44.99",
+        "publisher": "CareerCup"
+      }
+    ]
+  }
